@@ -1,0 +1,11 @@
+{
+  "name": "hello-world",
+  "description": "シンプルなHello Worldプラグインのサンプル",
+  "version": "1.0.0",
+  "author": {
+    "name": "Classmethod",
+    "url": "https://classmethod.jp"
+  },
+  "keywords": ["example", "hello", "sample"],
+  "commands": "./commands/"
+}

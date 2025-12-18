@@ -1,0 +1,18 @@
+{
+  "name": "classmethod-marketplace",
+  "owner": {
+    "name": "Classmethod",
+    "url": "https://classmethod.jp"
+  },
+  "metadata": {
+    "description": "Classmethod Claude Code Marketplace - ClassmethodのClaude Codeプラグイン集",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "hello-world",
+      "source": "./plugins/hello-world",
+      "description": "シンプルなHello Worldプラグインのサンプル"
+    }
+  ]
+}
