@@ -1,0 +1,10 @@
+{
+  "name": "devio-mcp",
+  "description": "DevIO (Contentful) 記事執筆のAI補助MCPサーバ",
+  "version": "0.1.0",
+  "author": {
+    "name": "Classmethod",
+    "url": "https://classmethod.jp"
+  },
+  "keywords": ["devio", "contentful", "mcp", "articles"]
+}

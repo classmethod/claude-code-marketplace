@@ -13,6 +13,11 @@
       "name": "hello-world",
       "source": "./plugins/hello-world",
       "description": "シンプルなHello Worldプラグインのサンプル"
+    },
+    {
+      "name": "devio-mcp",
+      "source": "./plugins/devio-mcp",
+      "description": "DevIO (Contentful) 記事執筆のAI補助MCPサーバ"
     }
   ]
 }
