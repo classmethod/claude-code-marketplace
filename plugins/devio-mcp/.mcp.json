@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "devio": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/dist/server.js"],
+      "env": {
+        "CONTENTFUL_ACCESS_TOKEN": "${CONTENTFUL_ACCESS_TOKEN}",
+        "CONTENTFUL_SPACE_ID": "${CONTENTFUL_SPACE_ID}",
+        "CONTENTFUL_ENVIRONMENT_ID": "${CONTENTFUL_ENVIRONMENT_ID}",
+        "CONTENTFUL_AUTHOR_ID": "${CONTENTFUL_AUTHOR_ID}",
+        "CONTENTFUL_ARTICLE_CONTENT_TYPE": "${CONTENTFUL_ARTICLE_CONTENT_TYPE}",
+        "ARTICLES_DIR": "${ARTICLES_DIR}"
+      }
+    }
+  }
+}
